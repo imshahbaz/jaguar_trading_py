@@ -70,8 +70,8 @@ def get_data(strategy):
     if len(data) > 0:
         list= data["nsecode"]
         for stock in list:
-            if Margins[stock] != None:
-               s=Margins[stock]
+            if Margins.get(stock) != None:
+               s=Margins.get(stock)
                message+= ("\n%s (%s) %d\n"%(s.get("name"),s.get("symbol"),s.get("percent")))
 
     if message != "":
