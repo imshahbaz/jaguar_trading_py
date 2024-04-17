@@ -1,0 +1,28 @@
+# FastAPI specific
+__pycache__/
+.env
+.env.*
+test_db.db
+
+# IDE and editor files
+.idea/
+.vscode/
+
+# Compiled Python files
+*.pyc
+
+# macOS specific
+.DS_Store
+
+# PyCharm specific
+.idea/**/workspace.xml
+.idea/**/tasks.xml
+.idea/**/usage.statistics.xml
+.idea/**/dictionaries
+.idea/**/shelf
+
+# AWS specific
+.idea/**/aws.xml
+
+# Generated files
+.idea/**/contentModel.xml

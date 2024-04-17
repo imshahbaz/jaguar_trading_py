@@ -1,4 +1,3 @@
-from time import sleep
 import os
 import warnings
 import sys
@@ -67,15 +66,21 @@ def GetDataFromChartink(payload):
 def get_data(strategy):
     data = GetDataFromChartink(strategy["condition"])
     message = ""
+    final_list=[]
     if len(data) > 0:
         list= data["nsecode"]
         for stock in list:
             if Margins.get(stock) != None:
-               s=Margins.get(stock)
-               message+= ("\n%s (%s) %d\n"%(s.get("name"),s.get("symbol"),s.get("percent")))
-
+                final_list.append(Margins.get(stock))
+                
+    if len(final_list)>0:
+        final_list.sort(key=lambda x:x["percent"],reverse=True)
+        message+=  "Strategy : "+ strategy["name"]+"\n"
+        for stock in final_list:
+            message+= ("\n%s ( %s ) %d\n"%(stock.get("name"),stock.get("symbol"),stock.get("percent")))
+                        
     if message != "":
-        formdata = {"name":strategy["name"],"stocks":message}
+        formdata = {"stocks":message}
         requests.post(api,data=formdata)
 
     return message
