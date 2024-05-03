@@ -4,6 +4,9 @@ import sys
 from constants import Margins
 import requests
 from constants.ch_strategy import Strategy
+from nselib import capital_market
+import datetime
+import pytz
 
 warnings.filterwarnings("ignore")
 
@@ -87,7 +90,23 @@ def get_data(strategy):
 
 
 def publish_message():
+    
+    utc_now = datetime.datetime.utcnow()
+
+    indian_timezone = pytz.timezone('Asia/Kolkata')
+    indian_now = utc_now.astimezone(indian_timezone)
+
+    indian_day_string = indian_now.strftime("%A")
+    
+    if indian_day_string == "Saturday" or indian_day_string == "Sunday":
+        return "Weekend"
+
     for strategy in Strategy:
         get_data(strategy=strategy)
 
     return "Success"    
+
+
+    
+async def get_hist_data(symbol:str,fromDate:str,toDate:str):
+    return capital_market.price_volume_and_deliverable_position_data(symbol=symbol,from_date=fromDate,to_date=toDate)

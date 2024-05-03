@@ -12,4 +12,8 @@ def margin_routes(app):
     async def hello():
        return "Hello from jaguar bot!!"
     
+    @margin.get('/getData')
+    async def get_data(symbol:str,fromDate: str,toDate: str):
+       return await margin_service.get_hist_data(symbol=symbol,fromDate=fromDate,toDate=toDate)
+    
     app.include_router(margin)
