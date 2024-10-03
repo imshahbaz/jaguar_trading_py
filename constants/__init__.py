@@ -7,7 +7,7 @@ mtf = [
   {
     "name": "AARTI INDUSTRIES LTD",
     "symbol": "AARTIIND",
-    "percent": 70
+    "percent": 65
   },
   {
     "name": "AAVAS FINANCIERS LIMITED",
@@ -17,7 +17,7 @@ mtf = [
   {
     "name": "ABB INDIA LIMITED",
     "symbol": "ABB",
-    "percent": 70
+    "percent": 65
   },
   {
     "name": "ABBOTT INDIA LIMITED",
@@ -57,7 +57,7 @@ mtf = [
   {
     "name": "ALKEM LABORATORIES LTD.",
     "symbol": "ALKEM",
-    "percent": 75
+    "percent": 70
   },
   {
     "name": "ALKYL AMINES CHEM. LTD",
@@ -142,7 +142,7 @@ mtf = [
   {
     "name": "ASIAN PAINTS LIMITED",
     "symbol": "ASIANPAINT",
-    "percent": 75
+    "percent": 70
   },
   {
     "name": "ASTEC LIFESCIENCES LTD",
@@ -182,12 +182,12 @@ mtf = [
   {
     "name": "AXIS BANK LIMITED",
     "symbol": "AXISBANK",
-    "percent": 75
+    "percent": 70
   },
   {
     "name": "BAJAJ AUTO LIMITED",
     "symbol": "BAJAJ-AUTO",
-    "percent": 75
+    "percent": 70
   },
   {
     "name": "BAJAJ ELECT.LTD",
@@ -217,7 +217,7 @@ mtf = [
   {
     "name": "BALKRISHNA IND. LTD",
     "symbol": "BALKRISIND",
-    "percent": 75
+    "percent": 70
   },
   {
     "name": "BALRAMPUR CHINI MILLS LTD",
@@ -232,7 +232,7 @@ mtf = [
   {
     "name": "BANK OF BARODA",
     "symbol": "BANKBARODA",
-    "percent": 70
+    "percent": 65
   },
   {
     "name": "NIP IND ETF BANK BEES",
@@ -255,14 +255,9 @@ mtf = [
     "percent": 60
   },
   {
-    "name": "BASF INDIA LTD",
-    "symbol": "BASF",
-    "percent": 60
-  },
-  {
     "name": "BATA INDIA LTD",
     "symbol": "BATAINDIA",
-    "percent": 75
+    "percent": 70
   },
   {
     "name": "BAYER CROPSCIENCE LTD",
@@ -277,32 +272,32 @@ mtf = [
   {
     "name": "MRS BECTORS FOOD SPE LTD",
     "symbol": "BECTORFOOD",
-    "percent": 65
+    "percent": 60
   },
   {
     "name": "BHARAT ELECTRONICS LTD",
     "symbol": "BEL",
-    "percent": 70
+    "percent": 65
   },
   {
     "name": "BERGER PAINTS (I) LTD",
     "symbol": "BERGEPAINT",
-    "percent": 75
+    "percent": 70
   },
   {
     "name": "BHARAT FORGE LTD",
     "symbol": "BHARATFORG",
-    "percent": 70
+    "percent": 65
   },
   {
     "name": "BHARTI AIRTEL LIMITED",
     "symbol": "BHARTIARTL",
-    "percent": 75
+    "percent": 70
   },
   {
     "name": "BHEL",
     "symbol": "BHEL",
-    "percent": 65
+    "percent": 60
   },
   {
     "name": "BIOCON LIMITED.",
@@ -332,7 +327,7 @@ mtf = [
   {
     "name": "BHARAT PETROLEUM CORP LT",
     "symbol": "BPCL",
-    "percent": 70
+    "percent": 65
   },
   {
     "name": "BRIGADE ENTER. LTD",
@@ -342,7 +337,7 @@ mtf = [
   {
     "name": "BRITANNIA INDUSTRIES LTD",
     "symbol": "BRITANNIA",
-    "percent": 75
+    "percent": 70
   },
   {
     "name": "BIRLASOFT LIMITED",
@@ -417,7 +412,7 @@ mtf = [
   {
     "name": "CHOLAMANDALAM IN & FIN CO",
     "symbol": "CHOLAFIN",
-    "percent": 70
+    "percent": 65
   },
   {
     "name": "CIE AUTOMOTIVE INDIA LTD",
@@ -427,7 +422,7 @@ mtf = [
   {
     "name": "CIPLA LTD",
     "symbol": "CIPLA",
-    "percent": 75
+    "percent": 70
   },
   {
     "name": "CMS INFO SYSTEMS LIMITED",
@@ -437,27 +432,27 @@ mtf = [
   {
     "name": "COAL INDIA LTD",
     "symbol": "COALINDIA",
-    "percent": 70
+    "percent": 65
   },
   {
     "name": "COFORGE LIMITED",
     "symbol": "COFORGE",
-    "percent": 70
+    "percent": 65
   },
   {
     "name": "COLGATE PALMOLIVE LTD.",
     "symbol": "COLPAL",
-    "percent": 75
+    "percent": 70
   },
   {
     "name": "CONTAINER CORP OF IND LTD",
     "symbol": "CONCOR",
-    "percent": 70
+    "percent": 65
   },
   {
     "name": "COROMANDEL INTERNTL. LTD",
     "symbol": "COROMANDEL",
-    "percent": 75
+    "percent": 70
   },
   {
     "name": "CPSE ETF",
@@ -477,17 +472,17 @@ mtf = [
   {
     "name": "CROMPT GREA CON ELEC LTD",
     "symbol": "CROMPTON",
-    "percent": 75
+    "percent": 70
   },
   {
     "name": "CITY UNION BANK LTD",
     "symbol": "CUB",
-    "percent": 70
+    "percent": 65
   },
   {
     "name": "CUMMINS INDIA LTD",
     "symbol": "CUMMINSIND",
-    "percent": 75
+    "percent": 65
   },
   {
     "name": "CYIENT LIMITED",
@@ -497,7 +492,7 @@ mtf = [
   {
     "name": "DABUR INDIA LTD",
     "symbol": "DABUR",
-    "percent": 75
+    "percent": 70
   },
   {
     "name": "DALMIA BHARAT LIMITED",
@@ -552,17 +547,17 @@ mtf = [
   {
     "name": "DIVI S LABORATORIES LTD",
     "symbol": "DIVISLAB",
-    "percent": 75
+    "percent": 70
   },
   {
     "name": "DIXON TECHNO (INDIA) LTD",
     "symbol": "DIXON",
-    "percent": 70
+    "percent": 65
   },
   {
     "name": "DLF LIMITED",
     "symbol": "DLF",
-    "percent": 70
+    "percent": 65
   },
   {
     "name": "AVENUE SUPERMARTS LIMITED",
@@ -572,7 +567,7 @@ mtf = [
   {
     "name": "DR. REDDY S LABORATORIES",
     "symbol": "DRREDDY",
-    "percent": 75
+    "percent": 70
   },
   {
     "name": "DWARIKESH SUGAR IND LTD",
@@ -587,7 +582,7 @@ mtf = [
   {
     "name": "EICHER MOTORS LTD",
     "symbol": "EICHERMOT",
-    "percent": 75
+    "percent": 70
   },
   {
     "name": "EID PARRY INDIA LTD",
@@ -627,11 +622,6 @@ mtf = [
   {
     "name": "FINE ORGANIC IND. LTD.",
     "symbol": "FINEORG",
-    "percent": 60
-  },
-  {
-    "name": "GUJARAT FLUOROCHEM LTD",
-    "symbol": "FLUOROCHEM",
     "percent": 60
   },
   {
@@ -697,12 +687,12 @@ mtf = [
   {
     "name": "GODREJ CONSUMER PRODUCTS",
     "symbol": "GODREJCP",
-    "percent": 75
+    "percent": 70
   },
   {
     "name": "GODREJ PROPERTIES LTD",
     "symbol": "GODREJPROP",
-    "percent": 70
+    "percent": 65
   },
   {
     "name": "GUJARAT PIPAVAV PORT LTD",
@@ -722,7 +712,7 @@ mtf = [
   {
     "name": "GRASIM INDUSTRIES LTD",
     "symbol": "GRASIM",
-    "percent": 75
+    "percent": 70
   },
   {
     "name": "GREENPANEL INDUSTRIES LTD",
@@ -762,27 +752,27 @@ mtf = [
   {
     "name": "HAVELLS INDIA LIMITED",
     "symbol": "HAVELLS",
-    "percent": 75
+    "percent": 70
   },
   {
     "name": "HCL TECHNOLOGIES LTD",
     "symbol": "HCLTECH",
-    "percent": 75
+    "percent": 70
   },
   {
     "name": "HDFC AMC LIMITED",
     "symbol": "HDFCAMC",
-    "percent": 70
+    "percent": 65
   },
   {
     "name": "HDFC BANK LTD",
     "symbol": "HDFCBANK",
-    "percent": 75
+    "percent": 70
   },
   {
     "name": "HDFC LIFE INS CO LTD",
     "symbol": "HDFCLIFE",
-    "percent": 75
+    "percent": 70
   },
   {
     "name": "HEIDELBERGCEMENT (I) LTD",
@@ -797,12 +787,12 @@ mtf = [
   {
     "name": "HERO MOTOCORP LIMITED",
     "symbol": "HEROMOTOCO",
-    "percent": 75
+    "percent": 70
   },
   {
     "name": "HINDALCO INDUSTRIES LTD",
     "symbol": "HINDALCO",
-    "percent": 70
+    "percent": 65
   },
   {
     "name": "HINDUSTAN PETROLEUM CORP",
@@ -812,7 +802,7 @@ mtf = [
   {
     "name": "HINDUSTAN UNILEVER LTD.",
     "symbol": "HINDUNILVR",
-    "percent": 75
+    "percent": 70
   },
   {
     "name": "ICICIPRAMC - BHARATIWIN",
@@ -822,17 +812,17 @@ mtf = [
   {
     "name": "ICICI BANK LTD.",
     "symbol": "ICICIBANK",
-    "percent": 75
+    "percent": 70
   },
   {
     "name": "ICICI LOMBARD GIC LIMITED",
     "symbol": "ICICIGI",
-    "percent": 75
+    "percent": 70
   },
   {
     "name": "ICICI PRU LIFE INS CO LTD",
     "symbol": "ICICIPRULI",
-    "percent": 75
+    "percent": 70
   },
   {
     "name": "ICRA LIMITED",
@@ -872,7 +862,7 @@ mtf = [
   {
     "name": "INDIAMART INTERMESH LTD",
     "symbol": "INDIAMART",
-    "percent": 70
+    "percent": 65
   },
   {
     "name": "INDIAN BANK",
@@ -902,7 +892,7 @@ mtf = [
   {
     "name": "INFOSYS LIMITED",
     "symbol": "INFY",
-    "percent": 75
+    "percent": 70
   },
   {
     "name": "INTELLECT DESIGN ARENA",
@@ -912,12 +902,12 @@ mtf = [
   {
     "name": "INDIAN OIL CORP LTD",
     "symbol": "IOC",
-    "percent": 70
+    "percent": 65
   },
   {
     "name": "IPCA LABORATORIES LTD",
     "symbol": "IPCALAB",
-    "percent": 75
+    "percent": 70
   },
   {
     "name": "INDIAN RAIL TOUR CORP LTD",
@@ -932,7 +922,7 @@ mtf = [
   {
     "name": "ITC LTD",
     "symbol": "ITC",
-    "percent": 75
+    "percent": 70
   },
   {
     "name": "ICICIPRAMC - ICICITECH",
@@ -1015,11 +1005,6 @@ mtf = [
     "percent": 60
   },
   {
-    "name": "KFIN TECHNOLOGIES LIMITED",
-    "symbol": "KFINTECH",
-    "percent": 65
-  },
-  {
     "name": "KRISHNA INST OF MED SCI L",
     "symbol": "KIMS",
     "percent": 60
@@ -1027,7 +1012,7 @@ mtf = [
   {
     "name": "KOTAK MAHINDRA BANK LTD",
     "symbol": "KOTAKBANK",
-    "percent": 75
+    "percent": 70
   },
   {
     "name": "KPIT TECHNOLOGIES LIMITED",
@@ -1092,7 +1077,7 @@ mtf = [
   {
     "name": "LARSEN & TOUBRO LTD.",
     "symbol": "LT",
-    "percent": 75
+    "percent": 70
   },
   {
     "name": "L&T FINANCE LIMITED",
@@ -1112,7 +1097,7 @@ mtf = [
   {
     "name": "LUPIN LIMITED",
     "symbol": "LUPIN",
-    "percent": 75
+    "percent": 70
   },
   {
     "name": "LAXMI ORGANIC INDUS LTD",
@@ -1122,12 +1107,12 @@ mtf = [
   {
     "name": "MAHINDRA & MAHINDRA LTD",
     "symbol": "M&M",
-    "percent": 75
+    "percent": 70
   },
   {
     "name": "M&M FIN. SERVICES LTD",
     "symbol": "M&MFIN",
-    "percent": 70
+    "percent": 65
   },
   {
     "name": "BANK OF MAHARASHTRA",
@@ -1157,7 +1142,7 @@ mtf = [
   {
     "name": "MARICO LIMITED",
     "symbol": "MARICO",
-    "percent": 75
+    "percent": 70
   },
   {
     "name": "MARKSANS PHARMA LIMITED",
@@ -1167,17 +1152,12 @@ mtf = [
   {
     "name": "MARUTI SUZUKI INDIA LTD.",
     "symbol": "MARUTI",
-    "percent": 75
+    "percent": 70
   },
   {
     "name": "MASTEK LTD",
     "symbol": "MASTEK",
     "percent": 60
-  },
-  {
-    "name": "MULTI COMMODITY EXCHANGE",
-    "symbol": "MCX",
-    "percent": 65
   },
   {
     "name": "MEDPLUS HEALTH SERV LTD",
@@ -1232,7 +1212,7 @@ mtf = [
   {
     "name": "SAMVRDHNA MTHRSN INTL LTD",
     "symbol": "MOTHERSON",
-    "percent": 70
+    "percent": 65
   },
   {
     "name": "MPHASIS LIMITED",
@@ -1242,7 +1222,7 @@ mtf = [
   {
     "name": "MRF LTD",
     "symbol": "MRF",
-    "percent": 75
+    "percent": 70
   },
   {
     "name": "MOTHERSON SUMI WRNG IND L",
@@ -1267,7 +1247,7 @@ mtf = [
   {
     "name": "NATIONAL ALUMINIUM CO LTD",
     "symbol": "NATIONALUM",
-    "percent": 65
+    "percent": 60
   },
   {
     "name": "INFO EDGE (I) LTD",
@@ -1292,7 +1272,7 @@ mtf = [
   {
     "name": "NESTLE INDIA LIMITED",
     "symbol": "NESTLEIND",
-    "percent": 75
+    "percent": 70
   },
   {
     "name": "NARAYANA HRUDAYALAYA LTD.",
@@ -1337,7 +1317,7 @@ mtf = [
   {
     "name": "NTPC LTD",
     "symbol": "NTPC",
-    "percent": 75
+    "percent": 70
   },
   {
     "name": "NUVOCO VISTAS CORP LTD",
@@ -1352,17 +1332,12 @@ mtf = [
   {
     "name": "OBEROI REALTY LIMITED",
     "symbol": "OBEROIRLTY",
-    "percent": 70
-  },
-  {
-    "name": "OIL INDIA LTD",
-    "symbol": "OIL",
-    "percent": 60
+    "percent": 65
   },
   {
     "name": "OIL AND NATURAL GAS CORP.",
     "symbol": "ONGC",
-    "percent": 70
+    "percent": 65
   },
   {
     "name": "ORIENT ELECTRIC LIMITED",
@@ -1372,22 +1347,17 @@ mtf = [
   {
     "name": "PAGE INDUSTRIES LTD",
     "symbol": "PAGEIND",
-    "percent": 75
-  },
-  {
-    "name": "PCBL LIMITED",
-    "symbol": "PCBL",
-    "percent": 60
+    "percent": 70
   },
   {
     "name": "PERSISTENT SYSTEMS LTD",
     "symbol": "PERSISTENT",
-    "percent": 70
+    "percent": 65
   },
   {
     "name": "PETRONET LNG LIMITED",
     "symbol": "PETRONET",
-    "percent": 75
+    "percent": 70
   },
   {
     "name": "POWER FIN CORP LTD.",
@@ -1407,12 +1377,12 @@ mtf = [
   {
     "name": "PIDILITE INDUSTRIES LTD",
     "symbol": "PIDILITIND",
-    "percent": 75
+    "percent": 70
   },
   {
     "name": "PI INDUSTRIES LTD",
     "symbol": "PIIND",
-    "percent": 75
+    "percent": 70
   },
   {
     "name": "PUNJAB NATIONAL BANK",
@@ -1437,7 +1407,7 @@ mtf = [
   {
     "name": "POWER GRID CORP. LTD.",
     "symbol": "POWERGRID",
-    "percent": 75
+    "percent": 70
   },
   {
     "name": "POWER MECH PROJECTS LTD.",
@@ -1492,7 +1462,7 @@ mtf = [
   {
     "name": "THE RAMCO CEMENTS LIMITED",
     "symbol": "RAMCOCEM",
-    "percent": 75
+    "percent": 70
   },
   {
     "name": "RATEGAIN TRAVEL TECHN LTD",
@@ -1517,7 +1487,7 @@ mtf = [
   {
     "name": "REC LIMITED",
     "symbol": "RECLTD",
-    "percent": 65
+    "percent": 60
   },
   {
     "name": "REDINGTON LIMITED",
@@ -1532,7 +1502,7 @@ mtf = [
   {
     "name": "RELIANCE INDUSTRIES LTD",
     "symbol": "RELIANCE",
-    "percent": 75
+    "percent": 70
   },
   {
     "name": "RITES LIMITED",
@@ -1557,7 +1527,7 @@ mtf = [
   {
     "name": "STEEL AUTHORITY OF INDIA",
     "symbol": "SAIL",
-    "percent": 65
+    "percent": 60
   },
   {
     "name": "SAPPHIRE FOODS INDIA LTD",
@@ -1567,17 +1537,17 @@ mtf = [
   {
     "name": "SBI CARDS & PAY SER LTD",
     "symbol": "SBICARD",
-    "percent": 75
+    "percent": 70
   },
   {
     "name": "SBI LIFE INSURANCE CO LTD",
     "symbol": "SBILIFE",
-    "percent": 75
+    "percent": 70
   },
   {
     "name": "STATE BANK OF INDIA",
     "symbol": "SBIN",
-    "percent": 75
+    "percent": 70
   },
   {
     "name": "SCHAEFFLER INDIA LIMITED",
@@ -1607,17 +1577,17 @@ mtf = [
   {
     "name": "SHREE CEMENT LIMITED",
     "symbol": "SHREECEM",
-    "percent": 75
+    "percent": 70
   },
   {
     "name": "SHRIRAM FINANCE LIMITED",
     "symbol": "SHRIRAMFIN",
-    "percent": 70
+    "percent": 65
   },
   {
     "name": "SIEMENS LTD",
     "symbol": "SIEMENS",
-    "percent": 75
+    "percent": 70
   },
   {
     "name": "SKF INDIA LTD",
@@ -1655,11 +1625,6 @@ mtf = [
     "percent": 60
   },
   {
-    "name": "STOVE KRAFT LIMITED",
-    "symbol": "STOVEKRAFT",
-    "percent": 60
-  },
-  {
     "name": "SUDARSHAN CHEMICAL INDS L",
     "symbol": "SUDARSCHEM",
     "percent": 60
@@ -1677,7 +1642,7 @@ mtf = [
   {
     "name": "SUN PHARMACEUTICAL IND L",
     "symbol": "SUNPHARMA",
-    "percent": 75
+    "percent": 70
   },
   {
     "name": "SUNTECK REALTY LIMITED",
@@ -1692,11 +1657,6 @@ mtf = [
   {
     "name": "SUPREME INDUSTRIES LTD",
     "symbol": "SUPREMEIND",
-    "percent": 60
-  },
-  {
-    "name": "SUPRIYA LIFESCIENCE LTD",
-    "symbol": "SUPRIYA",
     "percent": 60
   },
   {
@@ -1727,12 +1687,7 @@ mtf = [
   {
     "name": "TATA CONSUMER PRODUCT LTD",
     "symbol": "TATACONSUM",
-    "percent": 75
-  },
-  {
-    "name": "TATA ELXSI LIMITED",
-    "symbol": "TATAELXSI",
-    "percent": 60
+    "percent": 70
   },
   {
     "name": "TATA MOTORS LIMITED",
@@ -1742,7 +1697,7 @@ mtf = [
   {
     "name": "TATA POWER CO LTD",
     "symbol": "TATAPOWER",
-    "percent": 70
+    "percent": 65
   },
   {
     "name": "TATA STEEL LIMITED",
@@ -1752,7 +1707,7 @@ mtf = [
   {
     "name": "TATA CONSULTANCY SERV LT",
     "symbol": "TCS",
-    "percent": 75
+    "percent": 70
   },
   {
     "name": "TEAMLEASE SERVICES LTD.",
@@ -1762,7 +1717,7 @@ mtf = [
   {
     "name": "TECH MAHINDRA LIMITED",
     "symbol": "TECHM",
-    "percent": 75
+    "percent": 70
   },
   {
     "name": "TEGA INDUSTRIES LIMITED",
@@ -1787,7 +1742,7 @@ mtf = [
   {
     "name": "TITAN COMPANY LIMITED",
     "symbol": "TITAN",
-    "percent": 75
+    "percent": 70
   },
   {
     "name": "TAMILNADU PETROPRODUCTS L",
@@ -1797,7 +1752,7 @@ mtf = [
   {
     "name": "TORRENT PHARMACEUTICALS L",
     "symbol": "TORNTPHARM",
-    "percent": 75
+    "percent": 70
   },
   {
     "name": "TTK PRESTIGE LTD",
@@ -1807,17 +1762,17 @@ mtf = [
   {
     "name": "TVS MOTOR COMPANY LTD",
     "symbol": "TVSMOTOR",
-    "percent": 75
+    "percent": 70
   },
   {
     "name": "UNITED BREWERIES LTD",
     "symbol": "UBL",
-    "percent": 75
+    "percent": 70
   },
   {
     "name": "ULTRATECH CEMENT LIMITED",
     "symbol": "ULTRACEMCO",
-    "percent": 75
+    "percent": 70
   },
   {
     "name": "UNION BANK OF INDIA",
@@ -1872,7 +1827,7 @@ mtf = [
   {
     "name": "VOLTAS LTD",
     "symbol": "VOLTAS",
-    "percent": 75
+    "percent": 70
   },
   {
     "name": "VRL LOGISTICS LIMITED",
@@ -1902,7 +1857,7 @@ mtf = [
   {
     "name": "WIPRO LTD",
     "symbol": "WIPRO",
-    "percent": 75
+    "percent": 70
   },
   {
     "name": "WONDERLA HOLIDAYS LTD.",
@@ -1912,7 +1867,7 @@ mtf = [
   {
     "name": "ZYDUS LIFESCIENCES LTD",
     "symbol": "ZYDUSLIFE",
-    "percent": 75
+    "percent": 70
   },
   {
     "name": "ZYDUS WELLNESS LIMITED",
