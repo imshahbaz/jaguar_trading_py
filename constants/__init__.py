@@ -52,7 +52,7 @@ mtf = [
     {
         "name": "AJANTA PHARMA LIMITED",
         "symbol": "AJANTPHARM",
-        "percent": 70
+        "percent": 65
     },
     {
         "name": "ALKEM LABORATORIES LTD.",
@@ -67,11 +67,6 @@ mtf = [
     {
         "name": "AMBER ENTERPRISES (I) LTD",
         "symbol": "AMBER",
-        "percent": 60
-    },
-    {
-        "name": "AMI ORGANICS LIMITED",
-        "symbol": "AMIORG",
         "percent": 60
     },
     {
@@ -225,11 +220,6 @@ mtf = [
         "percent": 65
     },
     {
-        "name": "BANCO PRODUCTS (I) LTD",
-        "symbol": "BANCOINDIA",
-        "percent": 60
-    },
-    {
         "name": "BANK OF BARODA",
         "symbol": "BANKBARODA",
         "percent": 65
@@ -262,11 +252,6 @@ mtf = [
     {
         "name": "BAYER CROPSCIENCE LTD",
         "symbol": "BAYERCROP",
-        "percent": 60
-    },
-    {
-        "name": "BHARAT DYNAMICS LIMITED",
-        "symbol": "BDL",
         "percent": 60
     },
     {
@@ -372,11 +357,6 @@ mtf = [
     {
         "name": "CARBORUNDUM UNIVERSAL LTD",
         "symbol": "CARBORUNIV",
-        "percent": 60
-    },
-    {
-        "name": "CARE RATINGS LIMITED",
-        "symbol": "CARERATING",
         "percent": 60
     },
     {
@@ -515,11 +495,6 @@ mtf = [
         "percent": 60
     },
     {
-        "name": "DEEPAK FERTILIZERS & PETR",
-        "symbol": "DEEPAKFERT",
-        "percent": 60
-    },
-    {
         "name": "DEEPAK NITRITE LTD",
         "symbol": "DEEPAKNTR",
         "percent": 65
@@ -632,7 +607,7 @@ mtf = [
     {
         "name": "FIRSTSOURCE SOLU. LTD.",
         "symbol": "FSL",
-        "percent": 65
+        "percent": 60
     },
     {
         "name": "GABRIEL INDIA LTD",
@@ -672,7 +647,7 @@ mtf = [
     {
         "name": "GLENMARK PHARMACEUTICALS",
         "symbol": "GLENMARK",
-        "percent": 70
+        "percent": 65
     },
     {
         "name": "GMM PFAUDLER LIMITED",
@@ -835,14 +810,9 @@ mtf = [
         "percent": 60
     },
     {
-        "name": "IDFC LIMITED",
-        "symbol": "IDFC",
-        "percent": 65
-    },
-    {
         "name": "IDFC FIRST BANK LIMITED",
         "symbol": "IDFCFIRSTB",
-        "percent": 70
+        "percent": 65
     },
     {
         "name": "INDIAN ENERGY EXC LTD",
@@ -850,14 +820,9 @@ mtf = [
         "percent": 65
     },
     {
-        "name": "INDRAPRASTHA GAS LTD",
-        "symbol": "IGL",
-        "percent": 70
-    },
-    {
         "name": "THE INDIAN HOTELS CO. LTD",
         "symbol": "INDHOTEL",
-        "percent": 70
+        "percent": 65
     },
     {
         "name": "INDIAMART INTERMESH LTD",
@@ -882,7 +847,7 @@ mtf = [
     {
         "name": "INDUSIND BANK LIMITED",
         "symbol": "INDUSINDBK",
-        "percent": 70
+        "percent": 65
     },
     {
         "name": "INDUS TOWERS LIMITED",
@@ -1047,7 +1012,7 @@ mtf = [
     {
         "name": "LAURUS LABS LIMITED",
         "symbol": "LAURUSLABS",
-        "percent": 70
+        "percent": 65
     },
     {
         "name": "LEMON TREE HOTELS LTD",
@@ -1132,7 +1097,7 @@ mtf = [
     {
         "name": "MANAPPURAM FINANCE LTD",
         "symbol": "MANAPPURAM",
-        "percent": 65
+        "percent": 60
     },
     {
         "name": "MANGALAM CEMENT LTD",
@@ -1217,7 +1182,7 @@ mtf = [
     {
         "name": "MPHASIS LIMITED",
         "symbol": "MPHASIS",
-        "percent": 70
+        "percent": 65
     },
     {
         "name": "MRF LTD",
@@ -1252,12 +1217,12 @@ mtf = [
     {
         "name": "INFO EDGE (I) LTD",
         "symbol": "NAUKRI",
-        "percent": 70
+        "percent": 65
     },
     {
         "name": "NAVIN FLUORINE INT. LTD",
         "symbol": "NAVINFLUOR",
-        "percent": 70
+        "percent": 65
     },
     {
         "name": "NCC LIMITED",
@@ -1357,7 +1322,7 @@ mtf = [
     {
         "name": "PETRONET LNG LIMITED",
         "symbol": "PETRONET",
-        "percent": 70
+        "percent": 65
     },
     {
         "name": "POWER FIN CORP LTD.",
@@ -1587,7 +1552,7 @@ mtf = [
     {
         "name": "SIEMENS LTD",
         "symbol": "SIEMENS",
-        "percent": 70
+        "percent": 65
     },
     {
         "name": "SKF INDIA LTD",
@@ -1793,11 +1758,6 @@ mtf = [
         "name": "UPL LIMITED",
         "symbol": "UPL",
         "percent": 65
-    },
-    {
-        "name": "USHA MARTIN LTD.",
-        "symbol": "USHAMART",
-        "percent": 60
     },
     {
         "name": "UTI ASSET MNGMT CO LTD",
