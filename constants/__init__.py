@@ -170,6 +170,11 @@ mtf = [
         "percent": 65
     },
     {
+        "name": "ICICIPRAMC - ICICIAUTO",
+        "symbol": "AUTOIETF",
+        "percent": 60
+    },
+    {
         "name": "AVANTI FEEDS LIMITED",
         "symbol": "AVANTIFEED",
         "percent": 60
@@ -385,6 +390,11 @@ mtf = [
         "percent": 65
     },
     {
+        "name": "CG POWER AND IND SOL LTD",
+        "symbol": "CGPOWER",
+        "percent": 60
+    },
+    {
         "name": "CHALET HOTELS LIMITED",
         "symbol": "CHALET",
         "percent": 60
@@ -402,6 +412,11 @@ mtf = [
     {
         "name": "CIPLA LTD",
         "symbol": "CIPLA",
+        "percent": 70
+    },
+    {
+        "name": "CLEAN SCIENCE & TECH LTD",
+        "symbol": "CLEAN",
         "percent": 70
     },
     {
@@ -525,11 +540,6 @@ mtf = [
         "percent": 70
     },
     {
-        "name": "DIXON TECHNO (INDIA) LTD",
-        "symbol": "DIXON",
-        "percent": 65
-    },
-    {
         "name": "DLF LIMITED",
         "symbol": "DLF",
         "percent": 65
@@ -597,6 +607,11 @@ mtf = [
     {
         "name": "FINE ORGANIC IND. LTD.",
         "symbol": "FINEORG",
+        "percent": 60
+    },
+    {
+        "name": "FIVE-STAR BUS FIN LTD",
+        "symbol": "FIVESTAR",
         "percent": 60
     },
     {
@@ -765,6 +780,11 @@ mtf = [
         "percent": 70
     },
     {
+        "name": "HIKAL LIMITED",
+        "symbol": "HIKAL",
+        "percent": 60
+    },
+    {
         "name": "HINDALCO INDUSTRIES LTD",
         "symbol": "HINDALCO",
         "percent": 65
@@ -927,6 +947,11 @@ mtf = [
     {
         "name": "JM FINANCIAL LIMITED",
         "symbol": "JMFINANCIL",
+        "percent": 60
+    },
+    {
+        "name": "JINDAL STAINLESS LIMITED",
+        "symbol": "JSL",
         "percent": 60
     },
     {
@@ -1100,8 +1125,8 @@ mtf = [
         "percent": 60
     },
     {
-        "name": "MANGALAM CEMENT LTD",
-        "symbol": "MANGLMCEM",
+        "name": "MANKIND PHARMA LIMITED",
+        "symbol": "MANKIND",
         "percent": 60
     },
     {
@@ -1122,11 +1147,6 @@ mtf = [
     {
         "name": "MASTEK LTD",
         "symbol": "MASTEK",
-        "percent": 60
-    },
-    {
-        "name": "MEDPLUS HEALTH SERV LTD",
-        "symbol": "MEDPLUS",
         "percent": 60
     },
     {
@@ -1172,6 +1192,11 @@ mtf = [
     {
         "name": "MEGHMANI ORGANICS LIMITED",
         "symbol": "MOL",
+        "percent": 60
+    },
+    {
+        "name": "ICICIPRAMC - ICICIMOM30",
+        "symbol": "MOM30IETF",
         "percent": 60
     },
     {
@@ -1230,14 +1255,14 @@ mtf = [
         "percent": 60
     },
     {
-        "name": "NESCO LTD.",
-        "symbol": "NESCO",
-        "percent": 60
-    },
-    {
         "name": "NESTLE INDIA LIMITED",
         "symbol": "NESTLEIND",
         "percent": 70
+    },
+    {
+        "name": "ICICIPRAMC - ICICINXT50",
+        "symbol": "NEXT50IETF",
+        "percent": 60
     },
     {
         "name": "NARAYANA HRUDAYALAYA LTD.",
@@ -1267,11 +1292,6 @@ mtf = [
     {
         "name": "NOCIL LIMITED",
         "symbol": "NOCIL",
-        "percent": 60
-    },
-    {
-        "name": "NRB BEARING LIMITED",
-        "symbol": "NRBBEARING",
         "percent": 60
     },
     {
@@ -1400,6 +1420,11 @@ mtf = [
         "percent": 65
     },
     {
+        "name": "ICICIPRAMC - ICICIBANKP",
+        "symbol": "PVTBANIETF",
+        "percent": 60
+    },
+    {
         "name": "RADICO KHAITAN LTD",
         "symbol": "RADICO",
         "percent": 60
@@ -1500,6 +1525,11 @@ mtf = [
         "percent": 60
     },
     {
+        "name": "SBFC FINANCE LIMITED",
+        "symbol": "SBFC",
+        "percent": 60
+    },
+    {
         "name": "SBI CARDS & PAY SER LTD",
         "symbol": "SBICARD",
         "percent": 70
@@ -1560,6 +1590,11 @@ mtf = [
         "percent": 60
     },
     {
+        "name": "SOBHA LIMITED",
+        "symbol": "SOBHA",
+        "percent": 60
+    },
+    {
         "name": "SONA BLW PRECISION FRGS L",
         "symbol": "SONACOMS",
         "percent": 60
@@ -1575,6 +1610,11 @@ mtf = [
         "percent": 60
     },
     {
+        "name": "SPANDANA SPHOORTY FIN LTD",
+        "symbol": "SPANDANA",
+        "percent": 60
+    },
+    {
         "name": "SRF LTD",
         "symbol": "SRF",
         "percent": 70
@@ -1587,6 +1627,11 @@ mtf = [
     {
         "name": "STERLITE TECHNOLOGIES LTD",
         "symbol": "STLTECH",
+        "percent": 60
+    },
+    {
+        "name": "SUBEX LTD",
+        "symbol": "SUBEXLTD",
         "percent": 60
     },
     {
@@ -1643,6 +1688,11 @@ mtf = [
         "name": "TANLA PLATFORMS LIMITED",
         "symbol": "TANLA",
         "percent": 60
+    },
+    {
+        "name": "TATA CHEMICALS LTD",
+        "symbol": "TATACHEM",
+        "percent": 65
     },
     {
         "name": "TATA COMMUNICATIONS LTD",
@@ -1720,6 +1770,11 @@ mtf = [
         "percent": 70
     },
     {
+        "name": "TORRENT POWER LTD",
+        "symbol": "TORNTPOWER",
+        "percent": 60
+    },
+    {
         "name": "TTK PRESTIGE LTD",
         "symbol": "TTKPRESTIG",
         "percent": 60
@@ -1765,6 +1820,11 @@ mtf = [
         "percent": 60
     },
     {
+        "name": "UTKARSH SMALL FIN BANK L",
+        "symbol": "UTKARSHBNK",
+        "percent": 60
+    },
+    {
         "name": "VARUN BEVERAGES LIMITED",
         "symbol": "VBL",
         "percent": 60
@@ -1788,11 +1848,6 @@ mtf = [
         "name": "VOLTAS LTD",
         "symbol": "VOLTAS",
         "percent": 70
-    },
-    {
-        "name": "VRL LOGISTICS LIMITED",
-        "symbol": "VRLLOG",
-        "percent": 60
     },
     {
         "name": "VARDHMAN TEXTILES LIMITED",
@@ -1823,6 +1878,11 @@ mtf = [
         "name": "WONDERLA HOLIDAYS LTD.",
         "symbol": "WONDERLA",
         "percent": 65
+    },
+    {
+        "name": "ZOMATO LIMITED",
+        "symbol": "ZOMATO",
+        "percent": 60
     },
     {
         "name": "ZYDUS LIFESCIENCES LTD",
