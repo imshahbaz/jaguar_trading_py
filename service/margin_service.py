@@ -67,15 +67,15 @@ def GetDataFromChartink(payload):
     return df
 
 
-def get_data(strategy):
+def get_data(strategy, gsheet_margin):
     data = GetDataFromChartink(strategy["condition"])
     message = ""
     final_list = []
     if len(data) > 0:
-        list = data["nsecode"]
-        for stock in list:
-            if Margins.get(stock) != None:
-                final_list.append(Margins.get(stock))
+        stock_names = data["nsecode"]
+        for stock in stock_names:
+            if gsheet_margin.get(stock) is not None:
+                final_list.append(gsheet_margin.get(stock))
 
     if len(final_list) > 0:
         final_list.sort(key=lambda x: x["percent"], reverse=True)
@@ -101,12 +101,36 @@ def publish_message():
     if indian_day_string == "Saturday" or indian_day_string == "Sunday":
         return "Weekend"
 
+    gsheet_margin = get_g_sheet()
     for strategy in Strategy:
         if strategy['active']:
-            get_data(strategy=strategy)
+            get_data(strategy=strategy, gsheet_margin=gsheet_margin)
 
     return "Success"
 
 
 async def get_hist_data(symbol: str, fromDate: str, toDate: str):
     return capital_market.price_volume_and_deliverable_position_data(symbol=symbol, from_date=fromDate, to_date=toDate)
+
+
+def get_g_sheet():
+    try:
+        url = "https://docs.google.com/spreadsheets/d/e/2PACX-1vTb4OSG_m0d7SoEaVL70BwiO0VgwHKVLIXNOClkkJkXefRp33tYVOUAU_DXfwuLmFfJ-PmRI_qfIsHW/pub?output=csv"
+        response = requests.get(url)
+        response.raise_for_status()
+
+        open('dataset.csv', 'wb').write(response.content)
+        df = pd.read_csv('dataset.csv')
+        g_sheet_margin = {}
+        for row in df.itertuples():
+            if row.percent >= 60:
+                g_sheet_margin[row.symbol] = {"name": row.name, "symbol": row.symbol, "percent": row.percent}
+
+        return g_sheet_margin
+
+    except requests.exceptions.RequestException as e:
+        print(f"An error occurred: {e}")
+        return None
+
+    finally:
+        os.remove('dataset.csv')
