@@ -11,7 +11,12 @@ Strategy = [
     }
     , {
         "name": "Vollinger",
-        "active": True,
+        "active": False,
         "condition": "( {46553} ( latest close > latest open and latest close > latest sma( latest close , 20 ) and latest volume > 1 day ago volume and latest low <= latest sma( latest close , 20 ) and latest close >= ( ( latest high - latest low ) * 0.7 ) + latest low ) )"
+    },
+    {
+        "name": "521",
+        "active": True,
+        "condition": "( {46553} ( latest close > latest open and latest ema( latest close , 5 ) > latest ema( latest close , 10 ) and latest ema( latest close , 10 ) > latest ema( latest close , 21 ) and latest low <= latest ema( latest close , 5 ) and latest low > latest ema( latest close , 10 ) ) )"
     }
 ]
